@@ -1,0 +1,6 @@
+# Archivos ejecutables y compilados
+*.x
+*.out
+*.exe
+*.o
+
